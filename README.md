@@ -67,9 +67,9 @@ A web-based code editor that can run multiple languages like **C** and **Python*
 The backend service powering CodeEditor, written in **Python**.  
 Handles compilation/execution and bridges the editor with the underlying runtime safely.
 
-### 🔹 DiceRollerApp
-A simple yet polished **Kotlin** Android app to roll dice.  
-Built to get hands-on with Android development and Kotlin basics.
+### 🔹 tiny-os
+A small OS kernel written in **C** and **Assembly**.
+Built to get hands-on with OS development and Low Level programming.
 
 ### 🔹 filesystem-mcp-server
 A **Model Context Protocol (MCP)** server that exposes filesystem operations to AI assistants.  
