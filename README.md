@@ -41,11 +41,11 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="Windows" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="JetBrains IDEs" height="34" />
   <img src="https://cdn.jsdelivr.net/npm/@jetbrains/logos@2.2.26/android-studio/android-studio.svg" alt="android_studio" height="34"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="34" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/supabase/supabase-original.svg" alt="Supabase" height="34">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="34" />
 </p>
 
