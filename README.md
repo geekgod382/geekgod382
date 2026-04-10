@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Second-year undergraduate in Electronics & Communication Engineering at IIT Bhubaneswar  
+- 🎓 Second-year undergraduate at IIT Bhubaneswar
 - 💻 Interested in **systems programming, backend development, and developer tools**
 - 🧠 Enjoy exploring how things work under the hood – from compilers and runtimes to protocols
 - 🛠️ I like turning ideas into working projects, even if it means learning a new stack from scratch
