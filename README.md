@@ -60,12 +60,14 @@
 
 ## 📌 Featured Projects
 
-### 🔹 CodeEditor
-A web-based code editor that can run multiple languages like **C** and **Python**, making it easier to quickly test and experiment with code in the browser.  
+### 🔹 AutoPR Reviewer
+AI-powered GitHub App that automatically reviews Pull Requests — detects bugs, highlights style issues, 
+suggests performance improvements, and generates a risk score.
 
-### 🔹 CodeRunnerBackend
-The backend service powering CodeEditor, written in **Python**.  
-Handles compilation/execution and bridges the editor with the underlying runtime safely.
+### 🔹 CodeEditor + CodeRunnerBackend
+A web-based code editor that can run multiple languages, making it easier to quickly test and experiment 
+with code in the browser. The backend service powers CodeEditor, handles compilation/execution and bridges 
+the editor with the underlying runtime safely.
 
 ### 🔹 tiny-os
 A small OS kernel written in **C** and **Assembly**.
