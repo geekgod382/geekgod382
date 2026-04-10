@@ -53,7 +53,7 @@
 
 - Backend development (APIs, services)  
 - Developer tools & productivity  
-- File systems & low-level programming  
+- Low-level programming  
 - CLI tools & scripting  
 
 ---
