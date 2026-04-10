@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Manan Sharma 👋</h1>
 
 <p align="center">
-  <b>Sophomore @ IIT Bhubaneswar · ECE Department</b><br />
-  Aspiring engineer who loves building tools, editors, and backend systems.
+  A Software Engineer who loves building tools, editors, and backend systems.
 </p>
 
 ---
