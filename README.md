@@ -59,17 +59,17 @@
 
 ## 📌 Featured Projects
 
+### CXGRD
+Deterministic dependency graph analysis and blast radius detection with merge-time policy enforcement 
+for AI-assisted coding workflows.
+
+[![Try it out](https://img.shields.io/badge/Try%20It%20Out%20Here-4169E1)](https://www.cxgrd.com) [![Github Org](https://img.shields.io/badge/Github%20Org%20-2ea44f)](https://github.com/cxgrd)
+
 ### 🔹 AutoPR Reviewer
 AI-powered GitHub App that automatically reviews Pull Requests — detects bugs, highlights style issues, 
 suggests performance improvements, and generates a risk score.
 
 [![Install AutoPR Reviewer](https://img.shields.io/badge/Install%20on%20GitHub-AutoPR%20Reviewer-2ea44f?style=for-the-badge&logo=github)](https://github.com/apps/autopr-reviewer)
-
-
-### 🔹 CodeEditor + CodeRunnerBackend
-A web-based code editor that can run multiple languages, making it easier to quickly test and experiment 
-with code in the browser. The backend service powers CodeEditor, handles compilation/execution and bridges 
-the editor with the underlying runtime safely.
 
 ### 🔹 tiny-os
 A small OS kernel written in **C** and **Assembly**.
