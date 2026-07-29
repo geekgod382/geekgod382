@@ -50,6 +50,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="34" />
 </p>
 
+
+![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geekgod382&theme=github_dark)
+
+<div>
+  <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api/top-langs/?username=geekgod382&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api?username=geekgod382&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
 ### Domains & Interests
 
 - Backend development (APIs, services)  
@@ -80,23 +90,6 @@ Built to get hands-on with OS development and Low Level programming.
 ### 🔹 filesystem-mcp-server
 A **Model Context Protocol (MCP)** server that exposes filesystem operations to AI assistants.  
 Enables rich interactions like browsing, reading, and manipulating files through a standardized interface.
-
----
-
-## 📊 GitHub Overview
-
-- ⭐ Repositories starred: I like exploring interesting open-source tools and frameworks  
-- 🧑‍💻 Repositories: Mix of experiments, utilities, and learning projects  
-- 🌱 Always iterating on current projects and open to feedback / collaboration  
-
-You can often find me:
-- Refactoring and improving existing code
-- Building small utilities to automate repetitive tasks
-- Experimenting with new languages or frameworks
-
----
-
-![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geekgod382&theme=github_dark)
 
 ---
 
