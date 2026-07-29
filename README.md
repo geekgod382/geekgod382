@@ -72,7 +72,7 @@ for AI-assisted coding workflows.
 AI-powered GitHub App that automatically reviews Pull Requests — detects bugs, highlights style issues, 
 suggests performance improvements, and generates a risk score.
 
-[![Install AutoPR Reviewer](https://img.shields.io/badge/Install%20on%20GitHub-AutoPR%20Reviewer-2ea44f?style=for-the-badge&logo=github)](https://github.com/apps/autopr-reviewer)
+[![Install AutoPR Reviewer](https://img.shields.io/badge/Install%20on%20GitHub-AutoPR%20Reviewer-2ea44f)](https://prreviewr.com)
 
 ### 🔹 tiny-os
 A small OS kernel written in **C** and **Assembly**.
