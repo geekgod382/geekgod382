@@ -96,6 +96,10 @@ You can often find me:
 
 ---
 
+![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geekgod382&theme=github_dark)
+
+---
+
 ## 📫 Connect with Me
 
 - 🌐 Portfolio: [manan-sharma-six.vercel.app](https://manan-sharma-six.vercel.app/)
