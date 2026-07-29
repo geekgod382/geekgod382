@@ -74,22 +74,6 @@ suggests performance improvements, and generates a risk score.
 
 [![Install AutoPR Reviewer](https://img.shields.io/badge/Install%20on%20GitHub-AutoPR%20Reviewer-2ea44f)](https://prreviewr.com)
 
-### 🔹 tiny-os
-A small OS kernel written in **C** and **Assembly**.
-Built to get hands-on with OS development and Low Level programming.
-
-### 🔹 filesystem-mcp-server
-A **Model Context Protocol (MCP)** server that exposes filesystem operations to AI assistants.  
-Enables rich interactions like browsing, reading, and manipulating files through a standardized interface.
-
----
-
-## 📫 Connect with Me
-
-- 🌐 Portfolio: [manan-sharma-six.vercel.app](https://manan-sharma-six.vercel.app/)
-- 💼 LinkedIn: [in/manan-sharma-641276310](https://www.linkedin.com/in/manan-sharma-641276310/)
-- 📍 Based in India
-
 ---
 
 <p align="center">
