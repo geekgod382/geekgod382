@@ -60,15 +60,6 @@
 
 ---
 
-### Domains & Interests
-
-- Backend development (APIs, services)  
-- Developer tools & productivity  
-- Low-level programming  
-- CLI tools & scripting  
-
----
-
 ## 📌 Featured Projects
 
 ### CXGRD
