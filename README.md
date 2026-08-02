@@ -26,7 +26,7 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" height="34" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-original.svg" alt="NextJS" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="34" />
@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="JetBrains IDEs" height="34" />
   <img src="https://cdn.jsdelivr.net/npm/@jetbrains/logos@2.2.26/android-studio/android-studio.svg" alt="android_studio" height="34"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="34" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/supabase/supabase-original.svg" alt="Supabase" height="34">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" height="34">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="34" />
 </p>
 
@@ -50,6 +50,10 @@
   <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api/top-langs/?username=geekgod382&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api?username=geekgod382&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
+
+## 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/geekgod382/geekgod382/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
