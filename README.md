@@ -44,7 +44,7 @@
 
 ## GitHub Stats
 
-![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geekgod382&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=geekgod382&theme=github-dark)
 
 <div>
   <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api/top-langs/?username=geekgod382&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
