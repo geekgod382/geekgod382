@@ -51,8 +51,6 @@
   <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api?username=geekgod382&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 
-## 🐍 Contribution Snake
-
 ![Snake](https://raw.githubusercontent.com/geekgod382/geekgod382/output/github-contribution-grid-snake-dark.svg)
 
 ---
