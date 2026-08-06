@@ -5,6 +5,9 @@
 </p>
 
 ---
+[![Manan Sharma profile views](https://u8views.com/api/v1/github/profiles/181568300/views/day-week-month-total-count.svg)](https://u8views.com/github/geekgod382)
+
+---
 
 ## About Me
 
