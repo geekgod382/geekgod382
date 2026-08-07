@@ -44,7 +44,8 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geekgod382&show_icons=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=geekgod382&theme=dark)](https://git.io/streak-stats)
+
 
 <div>
   <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api/top-langs/?username=geekgod382&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
