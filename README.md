@@ -5,9 +5,6 @@
 </p>
 
 ---
-[![Manan Sharma profile views](https://u8views.com/api/v1/github/profiles/181568300/views/day-week-month-total-count.svg)](https://u8views.com/github/geekgod382)
-
----
 
 ## About Me
 
@@ -47,6 +44,8 @@
 
 ## GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geekgod382&show_icons=true&theme=dark)
+
 <div>
   <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api/top-langs/?username=geekgod382&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api?username=geekgod382&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -69,6 +68,10 @@ AI-powered GitHub App that automatically reviews Pull Requests — detects bugs,
 suggests performance improvements, and generates a risk score.
 
 [![Install AutoPR Reviewer](https://img.shields.io/badge/Install%20on%20GitHub-AutoPR%20Reviewer-2ea44f)](https://prreviewr.com)
+
+
+---
+[![Manan Sharma profile views](https://u8views.com/api/v1/github/profiles/181568300/views/total-count.svg)](https://u8views.com/github/geekgod382)
 
 ---
 
