@@ -54,6 +54,8 @@
 
 ![Snake](https://raw.githubusercontent.com/geekgod382/geekgod382/output/github-contribution-grid-snake-dark.svg)
 
+<img src="https://komarev.com/ghpvc/?username=geekgod382&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
+
 ---
 
 ## Featured Projects
@@ -64,15 +66,11 @@ for AI-assisted coding workflows.
 
 [![Try it out](https://img.shields.io/badge/Try%20It%20Out%20Here-4169E1)](https://www.cxgrd.com) [![Github Org](https://img.shields.io/badge/Github%20Org%20-2ea44f)](https://github.com/cxgrd)
 
-### 🔹 AutoPR Reviewer
+### AutoPR Reviewer
 AI-powered GitHub App that automatically reviews Pull Requests — detects bugs, highlights style issues, 
 suggests performance improvements, and generates a risk score.
 
 [![Install AutoPR Reviewer](https://img.shields.io/badge/Install%20on%20GitHub-AutoPR%20Reviewer-2ea44f)](https://prreviewr.com)
-
-
----
-[![Manan Sharma profile views](https://u8views.com/api/v1/github/profiles/181568300/views/total-count.svg)](https://u8views.com/github/geekgod382)
 
 ---
 
