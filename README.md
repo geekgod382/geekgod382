@@ -1,16 +1,8 @@
 <h1 align="left">Hi, I'm Manan👋</h1>
 
 <p align="left">
-  I am a dedicated software Engineer who loves building tools, editors, and backend systems.
+  I am a dedicated software Engineer who loves building tools, editors, and backend systems. I enjoy exploring how things work under the hood – from compilers and runtimes to protocols
 </p>
-
----
-
-## About Me
-
-- 💻 Interested in **systems programming, backend development, and developer tools**
-- 🧠 Enjoy exploring how things work under the hood – from compilers and runtimes to protocols
-- 🛠️ I like turning ideas into working projects, even if it means learning a new stack from scratch
 
 ---
 
