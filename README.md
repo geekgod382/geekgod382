@@ -1,17 +1,34 @@
-<h1 align="center">Hi, I'm Manan Sharma 👋</h1>
+<h1 align="left">Hi, I'm Manan👋</h1>
 
-<p align="center">
-  A Software Engineer who loves building tools, editors, and backend systems.
+<p align="left">
+  I am a dedicated software Engineer who loves building tools, editors, and backend systems.
 </p>
 
 ---
 
 ## About Me
 
-- 🎓 Second-year undergraduate at IIT Bhubaneswar
 - 💻 Interested in **systems programming, backend development, and developer tools**
 - 🧠 Enjoy exploring how things work under the hood – from compilers and runtimes to protocols
 - 🛠️ I like turning ideas into working projects, even if it means learning a new stack from scratch
+
+---
+
+## Featured Projects
+
+### CXGRD
+If you are someone who uses AI to build your projects, and you are afraid of AI breaking other stuff while fixing a bug or implementing a feature, this tool will definitely help you. cxgrd is a deterministic dependency graph analysis and blast radius detection tool with merge-time policy enforcement 
+for AI-assisted coding workflows.
+
+[![Try it out](https://img.shields.io/badge/Try%20It%20Out%20Here-4169E1)](https://www.cxgrd.com) [![Github Org](https://img.shields.io/badge/Github%20Org%20-2ea44f)](https://github.com/cxgrd)
+
+Watch a demo video [here](https://www.youtube.com/watch?v=eL8mkYsATFA)
+
+### AutoPR Reviewer
+AI-powered GitHub App that automatically reviews Pull Requests — detects bugs, highlights style issues, 
+suggests performance improvements, and generates a risk score.
+
+[![Install AutoPR Reviewer](https://img.shields.io/badge/Install%20on%20GitHub-AutoPR%20Reviewer-2ea44f)](https://prreviewr.com)
 
 ---
 
@@ -55,22 +72,6 @@
 ![Snake](https://raw.githubusercontent.com/geekgod382/geekgod382/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://komarev.com/ghpvc/?username=geekgod382&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
-
----
-
-## Featured Projects
-
-### CXGRD
-Deterministic dependency graph analysis and blast radius detection with merge-time policy enforcement 
-for AI-assisted coding workflows.
-
-[![Try it out](https://img.shields.io/badge/Try%20It%20Out%20Here-4169E1)](https://www.cxgrd.com) [![Github Org](https://img.shields.io/badge/Github%20Org%20-2ea44f)](https://github.com/cxgrd)
-
-### AutoPR Reviewer
-AI-powered GitHub App that automatically reviews Pull Requests — detects bugs, highlights style issues, 
-suggests performance improvements, and generates a risk score.
-
-[![Install AutoPR Reviewer](https://img.shields.io/badge/Install%20on%20GitHub-AutoPR%20Reviewer-2ea44f)](https://prreviewr.com)
 
 ---
 
