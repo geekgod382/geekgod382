@@ -22,6 +22,11 @@ suggests performance improvements, and generates a risk score.
 
 [![Install AutoPR Reviewer](https://img.shields.io/badge/Install%20on%20GitHub-AutoPR%20Reviewer-2ea44f)](https://prreviewr.com)
 
+### gatm
+gatm is a small git automation tool I built to ease my workflow. This single command will run core git commands like `add`, `commit`, `push` and `branch` by itself. Built in Rust, for speed.
+
+[![Try it out](https://img.shields.io/badge/Try%20It%20Out%20Here-4169E1)](https://github.com/geekgod382/gatm)
+
 ---
 
 ## Tech Stack
