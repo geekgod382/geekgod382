@@ -68,8 +68,6 @@ gatm is a small git automation tool I built to ease my workflow. This single com
 
 ![Snake](https://raw.githubusercontent.com/geekgod382/geekgod382/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://komarev.com/ghpvc/?username=geekgod382&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
-
 ---
 
 <p align="center">
