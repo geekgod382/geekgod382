@@ -27,6 +27,8 @@ gatm is a small git automation tool I built to ease my workflow. This single com
 
 [![Try it out](https://img.shields.io/badge/Try%20It%20Out%20Here-4169E1)](https://github.com/geekgod382/gatm)
 
+### See my gists [here](https://gist.github.com/geekgod382)
+
 ---
 
 ## Tech Stack
