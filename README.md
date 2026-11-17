@@ -53,6 +53,8 @@ gatm is a small git automation tool I built to ease my workflow. This single com
   <img src="https://cdn.jsdelivr.net/npm/@jetbrains/logos@2.2.26/android-studio/android-studio.svg" alt="android_studio" height="34"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" height="34">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="34" />
 </p>
 
